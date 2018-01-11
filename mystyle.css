@@ -54,23 +54,7 @@ h3{
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media only screen and (min-width: 768px){
+@media only screen and (min-width:1500px){
 body{
 	background-color: #484848;
 }
